@@ -54,19 +54,15 @@ We'll manage our minimap through an separate class. It has:
     // Minimap.h
     #include "PugiXml\src\pugixml.hpp"
     #include "SDL\include\SDL_rect.h"
-
     class UI_Image;
-
     class Minimap
     {
      public:
       Minimap();
       ~Minimap();
-
       UI_Image* Load(pugi::xml_node& conf);
       void Update();
       void Draw();
-
      private:
       UI_Image* base;
       SDL_Rect greenMark;
