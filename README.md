@@ -51,7 +51,7 @@ We'll manage our minimap through an separate class. It has:
 
 
 
-
+    // Minimap.h
     #include "PugiXml\src\pugixml.hpp"
     #include "SDL\include\SDL_rect.h"
 
