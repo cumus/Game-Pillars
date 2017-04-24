@@ -50,6 +50,8 @@ We'll manage our minimap through an separate class. It has:
 * 2 rectangles we'll use to show our units that contain their altas' section
 
 
+
+
     #include "PugiXml\src\pugixml.hpp"
     #include "SDL\include\SDL_rect.h"
 
