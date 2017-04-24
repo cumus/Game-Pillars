@@ -1,0 +1,135 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Minimap Solution.vcxproj, TheLinkedProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  j1Render.cpp
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(9): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(17): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\entity.h(11): warning C4099: 'Sprite': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): note: see declaration of 'Sprite'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(56): warning C4099: 'j1Module': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(25): note: see declaration of 'j1Module'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(59): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(58): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(50): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(56): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(250): warning C4101: 'oor': unreferenced local variable
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(463): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(561): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(562): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(568): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(569): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(553): warning C4101: 'h': unreferenced local variable
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.cpp(553): warning C4101: 'w': unreferenced local variable
+  j1GameLayer.cpp
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(56): warning C4099: 'j1Module': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(25): note: see declaration of 'j1Module'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(59): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(58): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): warning C4099: 'Sprite': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(21): note: see declaration of 'Sprite'
+c:\users\cumus\documents\research\minimap handout\motor2d\exit.h(9): warning C4099: 'Sprite': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): note: see declaration of 'Sprite'
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(50): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(56): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\j1gamelayer.cpp(164): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\j1gamelayer.cpp(226): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\p2point.h(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\cumus\documents\research\minimap handout\motor2d\p2point.h(130): note: while compiling class template member function 'int p2Point<int>::DistanceTo(const p2Point<int> &) const'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1gamelayer.cpp(215): note: see reference to function template instantiation 'int p2Point<int>::DistanceTo(const p2Point<int> &) const' being compiled
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(151): note: see reference to class template instantiation 'p2Point<int>' being compiled
+c:\users\cumus\documents\research\minimap handout\motor2d\p2point.h(134): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(9): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(17): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): warning C4099: 'Sprite': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(21): note: see declaration of 'Sprite'
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(50): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(56): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(56): warning C4099: 'j1Module': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(25): note: see declaration of 'j1Module'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(59): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(58): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\exit.h(9): warning C4099: 'Sprite': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): note: see declaration of 'Sprite'
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(348): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(355): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(364): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(372): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(380): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(387): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(395): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(403): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(462): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(466): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(471): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(475): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(481): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(485): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(490): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(494): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(513): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(559): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(578): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(582): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(587): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(591): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(597): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(601): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(606): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\player.cpp(610): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Minimap.cpp
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(56): warning C4099: 'j1Module': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(25): note: see declaration of 'j1Module'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(59): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(58): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(50): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(56): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): warning C4099: 'Sprite': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(21): note: see declaration of 'Sprite'
+  HUD.cpp
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(56): warning C4099: 'j1Module': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(25): note: see declaration of 'j1Module'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(59): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(58): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(50): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(56): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): warning C4099: 'Sprite': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(21): note: see declaration of 'Sprite'
+  Generating Code...
+  Compiling...
+  Enemy.cpp
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(50): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\quadtree.h(56): warning C4800: 'SDL_bool': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(9): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(17): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(22): warning C4099: 'Sprite': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1render.h(21): note: see declaration of 'Sprite'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(56): warning C4099: 'j1Module': type name first seen using 'class' now seen using 'struct'
+  c:\users\cumus\documents\research\minimap handout\motor2d\j1module.h(25): note: see declaration of 'j1Module'
+c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(59): warning C4099: 'UI_element': type name first seen using 'struct' now seen using 'class'
+  c:\users\cumus\documents\research\minimap handout\motor2d\ui_element.h(58): note: see declaration of 'UI_element'
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(68): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(96): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(107): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(108): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(179): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(202): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(206): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(210): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(214): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cumus\documents\research\minimap handout\motor2d\p2point.h(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\cumus\documents\research\minimap handout\motor2d\p2point.h(130): note: while compiling class template member function 'int p2Point<int>::DistanceTo(const p2Point<int> &) const'
+  c:\users\cumus\documents\research\minimap handout\motor2d\enemy.cpp(28): note: see reference to function template instantiation 'int p2Point<int>::DistanceTo(const p2Point<int> &) const' being compiled
+  c:\users\cumus\documents\research\minimap handout\motor2d\entity.h(83): note: see reference to class template instantiation 'p2Point<int>' being compiled
+c:\users\cumus\documents\research\minimap handout\motor2d\p2point.h(134): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  UI_Image.cpp
+  UI_Heart.cpp
+     Creating library .\Debug\Minimap Handout.lib and object .\Debug\Minimap Handout.exp
+physfs.lib(physfs.obj) : warning LNK4217: locally defined symbol _sprintf imported in function _PHYSFS_setSaneConfig
+  Motor2D.vcxproj -> C:\Users\Cumus\Documents\Research\Minimap Handout\Motor2D\.\Debug\Minimap Handout.exe

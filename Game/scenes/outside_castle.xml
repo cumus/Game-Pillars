@@ -1,0 +1,34 @@
+<!-- Castle Outside -->
+<scene name = "outsideCastle" map= "outsideCastle.tmx">
+  <sectors>
+    <sector>
+      <!--sector 1-->
+      <entities>
+
+        <npcs>
+        </npcs>
+
+        <enemies>
+		<sample type = "1" x = "73" y = "41">
+ 	 	</sample>
+		<sample type = "1" x = "79" y = "55">
+ 	 	</sample>
+		<sample type = "1" x = "70" y = "62">
+ 	 	</sample>
+		<sample type = "1" x = "81" y = "63"/>
+
+        </enemies>
+
+        <special>
+          <!--rocks, grass, etc-->
+        </special>
+      </entities>
+
+      <exits>
+        <exit destinyScene = "insideCastle" destinyExit = "0" x = "74" y = "33" w="4" h="1" direction = "1"/>
+	<exit destinyScene = "kakarikoVillage" destinyExit = "0" x = "70" y = "118" w="12" h="1" direction = "0"/>
+      </exits>
+
+    </sector>
+  </sectors>
+</scene>

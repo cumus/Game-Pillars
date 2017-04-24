@@ -1,0 +1,130 @@
+<!-- Config file for the game -->
+
+<config>
+  <app framerate_cap="">
+    <title>ALinkBetweenAges</title>
+    <organization>DuckDev</organization>
+    <cvars>
+      <cvar name ="max_fps" description ="Caps the FPS" value="60" min="0" max="120" type="int" read_only="false"/>
+    </cvars>
+  </app>
+	
+  <renderer>
+    <vsync value="true"/>
+    <cvars>
+      <cvar name ="vsync" description ="Active/Desactive vsync" value="1" min="0" max="1" type="int" read_only="false"/>
+    </cvars>
+  </renderer>
+
+  <fonts>
+    <default_font file="fonts/open_sans/OpenSans-Regular.ttf" size="12"/>
+  </fonts>
+
+  <gui>
+    <atlas file="gui/atlas.png"/>
+  </gui>
+    
+  <window> 
+    <resolution width="552" height="448" scale="2"/>
+    <margin horizontal="20" vertical="20"/>
+    <fullscreen value="false"/>
+    <borderless value="false"/>
+    <resizable value="true"/>
+    <fullscreen_window value="false"/>
+  </window>
+
+  <file_system>
+    <path>data.zip</path>
+  </file_system>
+
+  <map>
+    <folder>maps/</folder>
+  </map>
+
+  <textures folder = "textures/">
+    <texture name = "black" file = "black.png"/>
+  </textures>
+
+  <sceneManager>
+    <scenes folder = "scenes/">
+      <scene name = "kakarikoVillage" file = "kakariko_village.xml"/>
+      <scene name = "kakarikoForest" file = "kakariko_forest.xml"/>
+      <scene name = "insideCastle" file = "inside_castle.xml"/>
+      <scene name = "outsideCastle" file = "outside_castle.xml"/>
+    </scenes>
+  </sceneManager>
+  
+  <game>
+    <entityAttributes folder = "attributes/">
+      <link file = "player_attributes.xml"/>
+      <enemy file = "enemy_attributes.xml"/>
+      <npc file = "npc_attributes.xml"/>
+      <object file = "object_attributes.xml"/>
+    </entityAttributes>
+    <hud folder = "gui/">
+     <ingame file = "hud_attributes.xml"/>
+     <pause file = "pause_attributes.xml"/>
+    </hud>
+  </game>
+  -<inputManager>
+
+    <!--IN GAME CONTEXT-->
+    <context value="0">
+      
+       <!--ATTACK UP-->
+      <action event="0" button="3"/>
+      
+      <!--ATTACK DOWN-->
+      <action event="1" button="0"/>
+      
+      <!--ATTACK LEFT-->
+      <action event="2" button="2"/>
+    
+    <!--ATTACK RIGHT-->
+      <action event="3" button="1"/>
+    
+      <!--DODGE-->
+      <action event="4" button="10"/>
+
+      <!--PAUSE-->
+      <action event="5" button="6"/>
+    </context>
+    
+     <!--PAUSE CONTEXT-->
+    <context value="1"> 
+      <!--UP-->
+      <action event="6" button="11"/>
+    
+      <!--DOWN-->
+      <action event="7" button="12"/>
+
+      <!--LEFT-->
+      <action event="8" button="13"/>
+    
+      <!--RIGHT-->
+      <action event="9" button="14"/>
+
+      <!--CONFIRM-->
+      <action event="10" button="0"/>
+
+      <!--DECLINE-->
+      <action event="11" button="1"/>
+    
+      <!--PAUSE-->
+      <action event="5" button="6"/>
+  </context>
+  
+  </inputManager>  
+  <console>
+    <Position x="0" y="0"/>
+    <Size width="700" height="200"/>
+    <Color r="10" g="10" b="10" a="200"/>
+  </console>
+
+<dialogue>
+    <dialogues folder="dialogue/">
+      <npc file = "dialogs.xml"/>
+    </dialogues>
+  </dialogue>
+
+</config>
