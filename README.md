@@ -99,8 +99,8 @@ This procedure allows the team to make better decisions for the game. Judging an
 
 ## Sources
 * [GAME PILLARS - Oriol de Dios](https://orioldedios.github.io/Game-Design-Pillars/)
-* [ThursDev: Game Design Pillars - Better design through definition and restriction](https://youtu.be/_EtxKlctpXw)
-* [Explaining Design Pillars | Video Game Design](https://youtu.be/-Sq0nc5LxCc)
+* [ThursDev: Game Design Pillars - Youtube](https://youtu.be/_EtxKlctpXw)
+* [Explaining Design Pillars - Youtube](https://youtu.be/-Sq0nc5LxCc)
 * [Design Pillars – The Core of Your Game](http://www.maxpears.com/2017/09/02/design-pillars-the-core-of-your-game/)
 * [Defining the Core of Your Game – Design Pillars](https://80.lv/articles/defining-the-core-of-your-game-design-pillars/)
 * [Game Pillars - Paradox Interactive](https://www.paradoxinteractive.com/en/game-pillars/)
