@@ -17,7 +17,7 @@ Let's take a look at some nice examples of video games and their game pillars.
 
 
 ### Undertale
-![](https://i.ytimg.com/vi/USwa6Rr21Gw/maxresdefault.jpg)
+ ![](https://i.ytimg.com/vi/USwa6Rr21Gw/maxresdefault.jpg)
 
 * **Combat**
 * **Choice**
@@ -27,7 +27,7 @@ Let's take a look at some nice examples of video games and their game pillars.
 In this rpg players decide whether to kill, flee, or befriend monsters that challenge the player in combat. It forces the player to choose as the player progresses though the story. Winning a fight rewards players by letting them stir the story’s direction.
 
 ### Crypt of the NecroDancer
-![](https://hb.imgix.net/4f5a124846fa7207d62197917532612b3f87007a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=2415c377b48249eb5dc0927bf6ef13a6)
+ ![](https://hb.imgix.net/4f5a124846fa7207d62197917532612b3f87007a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=2415c377b48249eb5dc0927bf6ef13a6)
 
 * **Music & Rhythm**
 * **Items & Weapons**
@@ -36,7 +36,7 @@ In this rpg players decide whether to kill, flee, or befriend monsters that chal
 This game is all about clearing dungeons at the beat of the music. You use many unique weapons to defeat all kinds of monsters. You fight against a huge variety of monsters with different behaviours. The simplicity of just 3 main pillars makes it easier to understand what the game is about yet still allows huge room for complexity.
 
 ### The Last of Us
-![](https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg)
+ ![](https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg)
 
 * **Crafting**
 * **Story**
@@ -46,7 +46,7 @@ This game is all about clearing dungeons at the beat of the music. You use many 
 This one is a survival horror game where the player combats enemies and scavenges for crafting materials. These encounters allow for a tactical advantage using stealth instead of just going ham. Crafting compliments player progression through the campaign. The story is pushed mainly through conversations between characters. The player will build a relationship with these characters as he encounters them.
 
 ### Legend of Zelda: Breath of the Wild
-![](https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg)
+ ![](https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg)
 
 * **Exploration**
 * **Movement**
@@ -56,7 +56,7 @@ This one is a survival horror game where the player combats enemies and scavenge
 Here players are given little instruction and set off to explore freely a massive open world and a non-linear story. It always allows the player to approach a challenge any way they want. The main task is to collect different tools. These multipurpose tools allow the player to interact in new or different ways with the world; many make moving easier in a certain way. Improving movement allows for further and more efficient exploration as the player progresses. Other tools like weapons have durability and will break after being used too much. Having limited inventory space and stuff breaking forces the player to look for resources constantly and deciding which to pick up.
 
 ### Diablo III
-![](https://upload.wikimedia.org/wikipedia/en/8/80/Diablo_III_cover.png)
+ ![](https://upload.wikimedia.org/wikipedia/en/8/80/Diablo_III_cover.png)
 
 * **Approachable**
 * **Powerful Heroes**
