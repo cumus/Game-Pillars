@@ -11,6 +11,8 @@ subject Project 2, under supervision of lecturer
 Having a clear idea of a game you are trying to make is impossible. Everyone in the team has a different idea of what the game may end up being. It leads to chaos. The best approach is to start by agreeing on a set of concepts that define what the game is going to be about.
 
 Game pillars are these set of features or concepts that define the game and help guide its design process. These bounds are especially important for teams as they make sure everyone has a clearer idea of the game. They are unchanging concepts and ideas set and agreed upon before designing any feature.
+
+ ![](https://i.gyazo.com/8030eb7c588600bda37d98d46dc3eedf.png)
  
 ## Good examples
 Let's take a look at some nice examples of video games and their game pillars.
